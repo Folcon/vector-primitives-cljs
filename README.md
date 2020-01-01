@@ -2,6 +2,8 @@
 
 An experimental implementation of something approximating `vector-of` in clojurescript.
 
+[![Clojars Project](https://img.shields.io/clojars/v/vector-primitives-cljs.svg)](https://clojars.org/vector-primitives-cljs)
+
 ## Overview
 
 This library is primarily a way for me to split out the implementation of a
